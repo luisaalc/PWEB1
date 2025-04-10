@@ -1,0 +1,48 @@
+div.logo {
+    background-color: #333;
+    text-align: center;
+    width: 100%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    display: absolute;
+    font-size: larger;
+    position: fixed;
+    margin: -8px;
+}
+body{
+    background-image: url('carro.jpg');
+    background-size: cover;
+}
+div.hero {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: fixed;
+    top: 45%;
+    width: 100%;
+    font-size: 25px;
+    color: white;
+
+}
+
+a.btn {
+    background-color: chocolate;
+    color: white;
+    width: 50%;
+    border-radius: 5px;
+    margin: 30px;
+    border: solid 16px chocolate;
+    font-size: large;
+}
+
+footer {
+    background-color: #888;
+    width: 100%;
+    margin: -8px;
+    color: white;
+    text-align: center;
+    position: fixed;
+    top: 95%;
+    display: absolute;
+    font-size: 20px;
+    padding: 0%;
+}
